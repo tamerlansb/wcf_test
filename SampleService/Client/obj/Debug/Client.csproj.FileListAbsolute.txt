@@ -1,0 +1,11 @@
+c:\users\localadmin\documents\visual studio 2015\Projects\SampleService\Client\bin\Debug\Client.exe.config
+c:\users\localadmin\documents\visual studio 2015\Projects\SampleService\Client\bin\Debug\Client.exe
+c:\users\localadmin\documents\visual studio 2015\Projects\SampleService\Client\bin\Debug\Client.pdb
+c:\users\localadmin\documents\visual studio 2015\Projects\SampleService\Client\bin\Debug\Library.dll
+c:\users\localadmin\documents\visual studio 2015\Projects\SampleService\Client\bin\Debug\Library.pdb
+c:\users\localadmin\documents\visual studio 2015\Projects\SampleService\Client\obj\Debug\Client.exe
+c:\users\localadmin\documents\visual studio 2015\Projects\SampleService\Client\obj\Debug\Client.pdb
+c:\users\localadmin\documents\visual studio 2015\Projects\SampleService\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\WCF\SampleService\Client\bin\Debug\Client.exe.config
+D:\WCF\SampleService\Client\obj\Debug\Client.exe
+D:\WCF\SampleService\Client\obj\Debug\Client.pdb
